@@ -1,0 +1,39 @@
+.container{
+	margin-bottom: 30px;
+}
+/*buttons start*/
+button{
+	
+	margin-bottom: 20px;
+}
+a{
+	margin-bottom: 20px;
+}
+input{
+	margin-bottom: 20px;
+}
+/*butons end*/
+
+h1{
+	margin: 0 auto;
+    width: 30%;
+    background-color: #0dd;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.box-2{
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+}
+
+.carousel-item{
+	font-style: italic;
+}
+a{
+	margin-bottom: 0;
+}
+.offcanvas-body{
+	height: 200px;
+	flex-grow: 0;
+}
